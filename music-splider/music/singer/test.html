@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <script type="text/javascript" src="../../lib/jquery.js"></script>
+    <script>
+        $(function () {
+            function format(time) {
+                var m = parseInt(time/60000)
+                m<10 ? m='0'+m : m=m
+                var s = parseInt((time - m * 60000)/1000)
+                s<10 ? s='0'+s : s=s
+                return m + ':' + s
+            }
+            $.ajax({
+                type:"GET",
+                url:"薛之谦.json",
+                dataType: "json",
+                success: function(data){
+                    $.each(data, function(i, n){
+                        var str = $("<tr><td>" + i + "</td><td>" + n.name + "</td><td>" + format(n.duration) + "</td><td>" + n.album.name + "</td></tr>")
+                        $("#table").append(str);
+                    })
+                }
+            })
+        })
+    </script>
+</head>
+<body>
+<table border="1" id="table" cellpadding="5" cellspacing="0" style="text-align: center">
+    <caption>薛之谦</caption>
+    <tr>
+        <th>序号</th>
+        <th>歌名</th>
+        <th>时长</th>
+        <th>专辑</th>
+        <!--<th></th>-->
+    </tr>
+</table>
+</body>
+</html>
