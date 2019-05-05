@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<List ListName="美国Billboard周榜 2018-3-20">
+<File><FileName>Drake - Nice For What.mp3</FileName></File>
+<File><FileName>Drake - God's Plan.mp3</FileName></File>
+<File><FileName>Bebe Rexha - Meant to Be.mp3</FileName></File>
+<File><FileName>Post Malone - Psycho.mp3</FileName></File>
+<File><FileName>BlocBoy JB - Look Alive.mp3</FileName></File>
+<File><FileName>Zedd - The Middle.mp3</FileName></File>
+<File><FileName>Ed Sheeran - Perfect.mp3</FileName></File>
+<File><FileName>Cardi B - I Like It.mp3</FileName></File>
+<File><FileName>Lil Dicky - Freaky Friday.mp3</FileName></File>
+<File><FileName>Bruno Mars - Finesse (Remix).mp3</FileName></File>
+<File><FileName>Cardi B - Be Careful.mp3</FileName></File>
+<File><FileName>Migos - Walk It Talk It.mp3</FileName></File>
+<File><FileName>Rich The Kid - Plug Walk.mp3</FileName></File>
+<File><FileName>Bazzi - Mine.mp3</FileName></File>
+<File><FileName>Camila Cabello - Never Be the Same.mp3</FileName></File>
+<File><FileName>Camila Cabello - Havana.mp3</FileName></File>
+<File><FileName>The Weeknd - Pray For Me.mp3</FileName></File>
+<File><FileName>XXXTENTACION - Sad!.mp3</FileName></File>
+<File><FileName>Migos - Stir Fry.mp3</FileName></File>
+<File><FileName>The Weeknd - Call Out My Name.mp3</FileName></File>
+<File><FileName>Cardi B - Drip.mp3</FileName></File>
+<File><FileName>Imagine Dragons - Whatever It Takes.mp3</FileName></File>
+<File><FileName>Cardi B - I Do.mp3</FileName></File>
+<File><FileName>Post Malone - rockstar.mp3</FileName></File>
+<File><FileName>Kendrick Lamar - All The Stars.mp3</FileName></File>
+<File><FileName>Offset - Ric Flair Drip.mp3</FileName></File>
+<File><FileName>Dua Lipa - New Rules.mp3</FileName></File>
+<File><FileName>Cardi B - Ring.mp3</FileName></File>
+<File><FileName>Famous Dex - JAPAN.mp3</FileName></File>
+<File><FileName>Kane Brown - Heaven.mp3</FileName></File>
+<File><FileName>NF - Let You Down.mp3</FileName></File>
+<File><FileName>Cardi B - Bartier Cardi.mp3</FileName></File>
+<File><FileName>Imagine Dragons - Thunder.mp3</FileName></File>
+<File><FileName>Marshmello - FRIENDS.mp3</FileName></File>
+<File><FileName>Maroon 5 - Wait.mp3</FileName></File>
+<File><FileName>Rae Sremmurd - Powerglide.mp3</FileName></File>
+<File><FileName>Shawn Mendes - In My Blood.mp3</FileName></File>
+<File><FileName>Cardi B - Get Up 10.mp3</FileName></File>
+<File><FileName>Cardi B - Best Life.mp3</FileName></File>
+<File><FileName>Portugal. The Man - Feel It Still.mp3</FileName></File>
+<File><FileName>Jason Aldean - You Make It Easy.mp3</FileName></File>
+<File><FileName>Justin Timberlake - Say Something.mp3</FileName></File>
+<File><FileName>Cardi B - Bickenhead.mp3</FileName></File>
+<File><FileName>G-Eazy - Him & I.mp3</FileName></File>
+<File><FileName>MAX - Lights Down Low.mp3</FileName></File>
+<File><FileName>Post Malone - I Fall Apart.mp3</FileName></File>
+<File><FileName>Jay Rock - King's Dead.mp3</FileName></File>
+<File><FileName>Halsey - Bad At Love.mp3</FileName></File>
+<File><FileName>Rich The Kid - New Freezer.mp3</FileName></File>
+<File><FileName>Cardi B - Thru Your Phone.mp3</FileName></File>
+</List>
