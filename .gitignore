@@ -4,12 +4,8 @@ node_modules/
 customer/
 dist/
 
-/splider-example/node_modules
-/music-splider/node_modules
-/spider-for-music/node_modules
-
-/music-splider/.idea
-/spider-for-music/.idea
+/*/node_modules
+/*/.idea
 
 # Editor directories and files
 .idea
